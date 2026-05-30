@@ -1,0 +1,24 @@
+{
+  "version": "0.1.0",
+  "ollama_host": "http://localhost:11434",
+  "state_dir": "~/.openclaw/state",
+  "default_models": {
+    "gear_1": "qwen3:14b",
+    "gear_2": "gemma3:27b",
+    "gear_3": "qwen3-coder:30b"
+  },
+  "known_models": [
+    "qwen3:14b",
+    "gemma3:27b",
+    "qwen3-coder:30b"
+  ],
+  "cloud_gears": {
+    "4.1": "gpt_codex",
+    "4.2": "claude_code",
+    "4.3": "grok"
+  },
+  "comfy": {
+    "api_url": "http://127.0.0.1:8188",
+    "mode": "manual"
+  }
+}
