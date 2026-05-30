@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-STATE_DIR="${THUNDERSHIFT_STATE_DIR:-$HOME/.openclaw/state}"
+STATE_DIR="${THUNDERSHIFT_STATE_DIR:-$HOME/.thundershift/state}"
 STATE_FILE="$STATE_DIR/THUNDERSHIFT_STATE.md"
 HANDOFF_FILE="$STATE_DIR/SESSION_HANDOFF.md"
 LOG_FILE="$STATE_DIR/THUNDERSHIFT_LOG.md"
@@ -30,7 +30,7 @@ save_handoff(){
   cat > "$HANDOFF_FILE" <<EOF
 # Session Handoff
 
-Project: ACE / OpenClaw / ThunderShift 5000
+Project: ThunderShift 5000
 
 Last Completed:
 $1

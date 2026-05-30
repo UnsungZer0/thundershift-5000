@@ -1,9 +1,9 @@
 # Session Handoff
 
-Project: ACE / OpenClaw / ThunderShift 5000
+Project: ThunderShift 5000
 
 Last Completed:
-Phase 2 — all gears tested and verified on RTX 3090 host. qwen3:32b removed (spills VRAM). Gears renumbered. openclaw-gateway.service wired to shift Gear 1 on startup.
+Phase 2 — all gears tested and verified on RTX 3090 host. qwen3:32b removed (spills VRAM). Gears renumbered. Gateway service wired to shift Gear 1 on startup.
 
 Current Gear Map:
 - Gear 0: Neutral
@@ -17,7 +17,7 @@ Next Step:
 Phase 3 — add failure detection, BLINKER stack, GAS/BRAKE task classifier.
 
 Open Items:
-- Gear 4 does not yet swap OpenClaw's active provider — needs openclaw.json integration.
+- Gear 4 does not yet swap the active provider — needs agent config integration.
 - Gear 5 does not auto-launch ComfyUI — manual start required after shifting.
 
 Do Not Forget:

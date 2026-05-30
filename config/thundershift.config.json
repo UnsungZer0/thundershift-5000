@@ -1,7 +1,7 @@
 {
   "version": "0.1.0",
   "ollama_host": "http://localhost:11434",
-  "state_dir": "~/.openclaw/state",
+  "state_dir": "~/.thundershift/state",
   "default_models": {
     "gear_1": "qwen3:14b",
     "gear_2": "gemma3:27b",

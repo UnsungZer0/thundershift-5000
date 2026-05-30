@@ -1,6 +1,6 @@
 # ThunderShift 5000
 
-Mechanical gear shifting for ACE/OpenClaw.
+Mechanical gear shifting for local AI agents.
 
 ThunderShift switches between local Ollama models, cloud/API modes, and ComfyUI GPU mode while preserving state.
 

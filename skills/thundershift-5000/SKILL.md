@@ -1,11 +1,11 @@
 ---
 name: thundershift-5000
-description: Mechanical gear shifting for ACE/OpenClaw across local models, cloud modes, and ComfyUI GPU mode.
+description: Mechanical gear shifting across local models, cloud modes, and ComfyUI GPU mode.
 ---
 
 # ThunderShift 5000 Skill
 
-Use this skill when ACE needs to change operating mode, unload/load local models, reserve the GPU for ComfyUI, or check model/GPU status.
+Use this skill when the agent needs to change operating mode, unload/load local models, reserve the GPU for ComfyUI, or check model/GPU status.
 
 ## Commands
 
