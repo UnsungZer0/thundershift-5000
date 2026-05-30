@@ -6,7 +6,7 @@ Previous Gear: unknown
 Previous Brain: unknown
 
 Active Task: none
-Last Action: Phase 2 complete — all gears tested and verified on hrvstr
+Last Action: Phase 2 complete — all gears tested and verified on the host machine
 Next Action: Phase 3 — failure detection, BLINKER stack, GAS/BRAKE classifier
 
 GPU Status: RTX 3090 24GB VRAM — idle at Gear 0

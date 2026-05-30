@@ -3,7 +3,7 @@
 Project: ACE / OpenClaw / ThunderShift 5000
 
 Last Completed:
-Phase 2 — all gears tested and verified on hrvstr (RTX 3090). qwen3:32b removed (spills VRAM). Gears renumbered. openclaw-gateway.service wired to shift Gear 1 on startup.
+Phase 2 — all gears tested and verified on RTX 3090 host. qwen3:32b removed (spills VRAM). Gears renumbered. openclaw-gateway.service wired to shift Gear 1 on startup.
 
 Current Gear Map:
 - Gear 0: Neutral
